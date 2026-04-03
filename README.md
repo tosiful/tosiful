@@ -116,7 +116,7 @@ Portfolio showcasing projects and achievements
 | Platform | Link |
 |----------|------|
 | 📧 **Email** | tosiful.islam@fau.de |
-| 💼 **LinkedIn** | [tosiful-islam](https://linkedin.com/in/tosiful-islam) |
+| 💼 **LinkedIn** | [tosiful-islam](https://www.linkedin.com/in/tosiful/) |
 | 🐙 **GitHub** | [@tosiful](https://github.com/tosiful) |
 | 📍 **Location** | Erlangen, Germany 🇩🇪 |
 
