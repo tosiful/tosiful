@@ -3,7 +3,7 @@
 **ML Engineer | Medical Imaging & Privacy-Preserving Systems**
 
 [![](https://img.shields.io/badge/GitHub-tosiful-181717?style=for-the-badge&logo=github)](https://github.com/tosiful)
-[![](https://img.shields.io/badge/LinkedIn-tosiful--islam-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tosiful-islam)
+[![](https://img.shields.io/badge/LinkedIn-tosiful--islam-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tosiful/)
 [![](https://img.shields.io/badge/Email-tosiful.islam@fau.de-D14836?style=for-the-badge&logo=gmail)](mailto:tosiful.islam@fau.de)
 
 ---
